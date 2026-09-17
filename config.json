@@ -1,0 +1,12 @@
+{
+    "max_threads": 1,
+    "max_retries": 2,
+    "captchaheaven_api_key": "",
+    "captcha_timeout": 120,
+    "sms_timeout": 60,
+    "otp_bot_token": "",
+    "otp_channel_ids": [
+        ""
+    ],
+    "discord_otp_timeout": 300
+}
